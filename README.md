@@ -1,4 +1,5 @@
-### Hey! I'm Mari, a Brazilian ☀ living in Finland ❄ and finishing a degree in Business Information Technology at Haaga-Helia ✌
+### Hey! 
+### I'm Mari, a Brazilian ☀ living in Finland ❄ and finishing a degree in Business Information Technology at Haaga-Helia ✌
 
 <div style="display: inline_block">
   <a href="https://github.com/marianaupb">
