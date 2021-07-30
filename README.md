@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey! I'm Mariana Utta
+
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianaupb&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaupb&layout=compact&langs_count=7&theme=nord"/>
+</div>
 
 <!--
 **marianaupb/marianaupb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
